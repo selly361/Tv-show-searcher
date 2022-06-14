@@ -95,7 +95,7 @@ main {
 main h1 {
   column-gap: 0.7rem;
   background-color: white;
-  inline-size: 27rem;
+  inline-size: 24rem;
   text-align: center;
   border-radius: 0.5rem;
   display: flex;
